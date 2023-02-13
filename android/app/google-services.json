@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956534495705",
+    "firebase_url": "https://know-your-posture-firebase-default-rtdb.firebaseio.com",
+    "project_id": "know-your-posture-firebase",
+    "storage_bucket": "know-your-posture-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956534495705:android:75cdef24082e7da140a1c8",
+        "android_client_info": {
+          "package_name": "com.example.yoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956534495705-tiddsbe60rcbhpetg9fl2m7acstt7qcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMFg7ZS090oW9NOf1UR8_Ex3B2rEa2II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956534495705-tiddsbe60rcbhpetg9fl2m7acstt7qcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
